@@ -14,7 +14,7 @@ I'm a passionate engineer specialized in building secure, scalable, and user-fri
 
 
 💡 **Let’s Connect**  
-- 📬 Email: [olfa.kacem@example.com](mailto:olfa.kacem7@gmail.com)  
+- 📬 Email: [olfa.kacem7@gmail.com](mailto:olfa.kacem7@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/olfa-kacem](https://www.linkedin.com/in/olfa-kacem/)
 - 💼 Portfolio: [olfakacem](https://olfakacem.netlify.app/)  
 - 💬 Ask me about: secure API design, clean architecture, or full-stack workflows
